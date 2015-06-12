@@ -30,26 +30,26 @@ $txt['setting_cal_maxspan'] = 'Máx. número de días que un evento puede expand
 $txt['setting_cal_showInTopic'] = 'Mostrar eventos enlazados en la visualización de temas';
 
 $txt['setting_cal_display_type'] = 'Cell Display Type';
-$txt['setting_cal_display_comfortable'] = 'Comfortable';
-$txt['setting_cal_display_compact'] = 'Compact';
+$txt['setting_cal_display_comfortable'] = 'Confortable';
+$txt['setting_cal_display_compact'] = 'Compacto';
 
-$txt['setting_cal_disable_prev_next'] = 'Disable Three Month Blocks';
+$txt['setting_cal_disable_prev_next'] = 'Inhabilitar Bloques de Tres Meses';
 
-$txt['setting_cal_highlight_events'] = 'Highlight Events';
-$txt['setting_cal_highlight_holidays'] = 'Highlight Holidays';
-$txt['setting_cal_highlight_birthdays'] = 'Highlight Birthdays';
+$txt['setting_cal_highlight_events'] = 'Eventos Importantes';
+$txt['setting_cal_highlight_holidays'] = 'Vacaciones Importantes';
+$txt['setting_cal_highlight_birthdays'] = 'Cumpleaños Importantes';
 
-$txt['setting_cal_highlight_none'] = 'Nowhere';
-$txt['setting_cal_highlight_mini'] = 'Mini Calendars Only';
-$txt['setting_cal_highlight_main'] = 'Main Calendar Only';
-$txt['setting_cal_highlight_both'] = 'Mini &amp; Main Calendars';
+$txt['setting_cal_highlight_none'] = 'Ninguna Parte';
+$txt['setting_cal_highlight_mini'] = 'Solo Mini-Calendarios';
+$txt['setting_cal_highlight_main'] = 'Solo Calendario Principal';
+$txt['setting_cal_highlight_both'] = 'Mini &amp; Calendarios Principales';
 
-$txt['setting_cal_week_links'] = 'Show Week Links';
-$txt['setting_cal_week_links_none'] = 'Nowhere';
-$txt['setting_cal_week_links_mini'] = 'Mini Calendars Only';
-$txt['setting_cal_week_links_main'] = 'Main Calendar Only';
-$txt['setting_cal_week_links_both'] = 'Mini &amp; Main Calendars';
-$txt['setting_cal_prev_next_links'] = 'Show <em>Previous / Next</em> Month Links';
+$txt['setting_cal_week_links'] = 'Mostrar Enlaces de la Semana';
+$txt['setting_cal_week_links_none'] = 'Ninguna Parte';
+$txt['setting_cal_week_links_mini'] = 'Solo Mini-Calendarios';
+$txt['setting_cal_week_links_main'] = 'Solo Calendario Principal';
+$txt['setting_cal_week_links_both'] = 'Mini &amp; Calendarios Principales';
+$txt['setting_cal_prev_next_links'] = 'Mostrar <em>Anterior / Siguiente</em> Enlaces del Mes';
 
 // The name of this setting is kind of misleading...we can't shorten actual months unfortunately!
 $txt['setting_cal_short_months'] = 'Short Month Titles';
